@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+osm_id,mapillary_id,...,wall_albedo,sat_albedo,contains_vegetation,mean_R,mean_G,mean_B
+338449341,1773791850132402,...,147.164911,53.224369,True,142.54,148.30,150.64
+=======
+osm_id,mapillary_id,...,wall_albedo,sat_albedo,contains_vegetation,mean_R,mean_G,mean_B
+338449341,1773791850132402,...,147.164911,53.224369,True,142.54,148.30,150.64
+>>>>>>> 9923e0215eed900757a4c8d5f4cb7dbf798a0364
+338449359,1752274065569644,...,58.551837,39.924429,False,67.40,56.63,51.61
