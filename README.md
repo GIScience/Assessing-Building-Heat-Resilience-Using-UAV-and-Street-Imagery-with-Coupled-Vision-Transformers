@@ -3,6 +3,7 @@
 <!-- [![DOI](https://doi.org/badge/994672005.svg)] -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org)
+[![DOI](https://zenodo.org/badge/1219078310.svg)](https://doi.org/10.5281/zenodo.19886698)
 
 End-to-end pipeline for classifying heat-relevant building attributes (rooftop material, wall material, structural openness, vegetation, floor count , etc ..) and regressing surface brightness from fused UAV and street-view imagery using a Coupled Global Context Vision Transformer (CGCViT).
 
