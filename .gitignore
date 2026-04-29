@@ -1,0 +1,35 @@
+# # --- Large geodata files (store externally, e.g. shared drive or cloud storage) ---
+# *.tif
+# *.tiff
+# *.gpkg
+
+# --- Output generated files (produced by pipeline at runtime) ---
+# output/cropped_uav/
+# output/cropped_svi/
+# output/svi_panoramas/
+# output/mapillary_detections/
+# output/visualizations/
+# output/features_master.csv
+# output/centerline_data.csv
+# output/CV_classdata.csv
+# output/CV_regression.csv
+
+# Keep placeholder files
+!**/.gitkeep
+
+# --- Secrets ---
+# .env
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.db
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+conv.py

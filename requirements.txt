@@ -1,0 +1,17 @@
+pandas
+geopandas
+shapely
+requests
+tqdm
+numpy
+scipy
+python-dotenv
+tensorflow
+gcvit
+seaborn
+matplotlib
+scikit-learn
+opencv-python
+rasterio
+mapbox-vector-tile
+Pillow
