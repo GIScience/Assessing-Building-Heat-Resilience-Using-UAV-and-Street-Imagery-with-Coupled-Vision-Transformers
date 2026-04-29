@@ -10,7 +10,7 @@
 - `svi_panoramas/`: Full equirectangular panoramas from mapillary.
 - `labels_data/`: Label-organized image tree for classification tasks .
 - `mapillary_detections/`: Per-building object-detection CSVs from Mapillary API.
-- `training_results/`: Model checkpoints, metrics, and training plots.
+- `training_results/`: Model checkpoints, metrics, and training plots. No shared here due to file size. Can be made avaialbel upon request.
 - `visualizations/`: Grad-CAM attention overlays.
 
 ---
