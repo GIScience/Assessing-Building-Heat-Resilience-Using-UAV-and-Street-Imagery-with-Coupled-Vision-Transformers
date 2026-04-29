@@ -14,7 +14,7 @@ Raw input files used by the [preprocessing pipeline](../preprocessing/readme.md)
 ### `Msimbazi_image.tif`
 
 - **Purpose:** UAV orthomosaic raster covering the AOI, used to generate per-building UAV chips.
-- **Source:** [OpenAerialMap](https://openaerialmap.org) API.
+- **Source:** [OpenAerialMap](https://openaerialmap.org) API. No shared here due to file size. Can be made avaialable upon request.
 - **Used by:** `03_create_uav_data.py`
 
 ### `OSM_residential_buildings.gpkg`
